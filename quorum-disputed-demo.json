@@ -1,0 +1,5 @@
+{
+  "profile": "node-disputed-demo-v1",
+  "purpose": "Hackathon demonstration of builders producing different artifact bytes",
+  "warning": "This marker intentionally selects a trusted demo-only nondeterministic build profile."
+}

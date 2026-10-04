@@ -1,0 +1,17 @@
+{
+  "name": "disputed-node",
+  "version": "1.0.0",
+  "description": "Explicit Quorum demo package for a DISPUTED multi-builder result",
+  "main": "src/index.js",
+  "files": [
+    "src/index.js",
+    "quorum-build-nonce.txt"
+  ],
+  "scripts": {
+    "test": "node --test"
+  },
+  "engines": {
+    "node": ">=20"
+  },
+  "license": "MIT"
+}
